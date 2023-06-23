@@ -1,0 +1,10 @@
+{
+    "token": "Paste here Telegram bot token",
+    "ydb": {
+        "id": "Paste yandex cloud service account id here",
+        "key": "Paste yandex cloud service account key here",
+        "endpoint": "Paste database endpoint here",
+        "database": "Paste database location here"
+    },
+    "report_chat": Paste Telegram chat for reports here
+}
